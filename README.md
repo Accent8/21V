@@ -1,6 +1,6 @@
-# VEFGRUNNUR HTML og CSS
+# VEFGRUNNUR 
 
-#### VEF1VGA05U
+#### HTML og CSS
 
 #### [Námsáætlun](VEFÞ1VG05AU_V21-2.pdf) 
 
