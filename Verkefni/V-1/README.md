@@ -1,9 +1,9 @@
-# HTML og CSS
+# Verkefni 1. HTML og CSS
 
 ### Markmið:
 Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og hvernig hægt er að stjórna útliti vefsíðu með CSS stílsíðu.
 
-* Verkefni 1 er unnið hér í áfangageymslunni (_Github Classroom_) 
-* [Fylgigögn](v1-texti.md)
+* [Verkefnalýsing](Verkefni_1.pdf)
+* [Fylgigögn](../Sýnidæmi/V-1)
 
 #### Einkunn verður birt í Innu
