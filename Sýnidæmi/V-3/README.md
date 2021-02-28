@@ -1,4 +1,5 @@
-Skipulag vefsíðu - webpage layout
+# Skipulag vefsíðu - webpage layout
+
 vefsíða: https://vefgrunnur.github.io/cssgrid/
 
 byggt á: https://scrimba.com/g/gR8PTE
