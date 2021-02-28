@@ -6,9 +6,7 @@ Nemendur öðlast skilning á:
 * skipulaggningu leiðakerfis fyrir innri og ytri vef.
 * staðsett efni á ákveðnum stað í vefsíðu
 
-
-* **Verkefnalýsing er í INNU** 
 * Verkefni 5 er unnið hér í áfangageymslunni (_Github Classroom_) 
-* Fylgigögn, 2 vefsíður sem á að nota í verkefninu.
+* [Fylgigögn](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-5), 2 vefsíður sem á að nota í verkefninu.
 
 #### Einkunn verður birt í Innu
