@@ -25,12 +25,12 @@ div {
 ```
 
 body {			
-	
-/* litur(1) mynd(2)	staðsetning X-Y(3)	fixed(4) repeat-(5) */
 	background: rgb(3,3,3) url(morn-wash.jpg) 0px -5px scroll no-repeat;
-/*  								0% 	50%   100% 	fixed repeat-x eða repeat-y
-									X lárétt: left* center right       
-									Y lóðrétt: top* middle bottom  */
+/* litur(1) mynd(2)	staðsetning X-Y(3)	fixed(4) repeat-(5) */
+	
+/*  0% 	50%   100% 	fixed repeat-x eða repeat-y
+    X lárétt: left* center right       
+    Y lóðrétt: top* middle bottom  */
 
     background-color:#6ff;
     background-image:url(flott-logo.svg);
