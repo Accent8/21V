@@ -1,6 +1,6 @@
 # Glósur
 
-* [Wikipedia - Viðmótshönnun](https://is.wikipedia.org/wiki/Vi%C3%B0m%C3%B3tsh/* 
+* [Wikipedia - Viðmótshönnun](https://is.wikipedia.org/wiki/Vi%C3%B0m%C3%B3tsh/)
 
 #### Gildum hlaðið á eigindi 
 
