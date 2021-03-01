@@ -14,9 +14,9 @@ div {
 		á bæði við margin og padding */
 	
 	border: 5px solid #f0f; 
-		/*-weight(1) -style(2) -color(3) */
-	   /* 7 gildi eru í border-style: solid, dotted, dashed, double, ridge, inset, outset,*/
-	  /*ath! að veja aðeins eitt gildi á border-style:*/
+	        /*-weight, -style, -color */
+	/* 7 gildi eru í border-style: solid, dotted, dashed, double, ridge, inset, outset,*/
+	/*ath! að veja aðeins eitt gildi á border-style:*/
 }
 
 ```
