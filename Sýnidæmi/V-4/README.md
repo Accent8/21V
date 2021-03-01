@@ -33,15 +33,15 @@ bacground eigindi
     
 body {			
 	background: rgb(3,3,3) url(morn-wash.jpg) 0px -5px scroll no-repeat;
-                /* litur( )     mynd(2)	staðsetning X-Y    fixed repeat x y */
+                /* litur,     mynd,	staðsetning X-Y,    fixed, repeat x y */
 	
-/*  0% 	50%   100% 	fixed repeat-x eða repeat-y
-    X lárétt: left* center right       
-    Y lóðrétt: top* middle bottom  */
+/*  fixed, repeat-x eða repeat-y
+    X lárétt: left, center, right       
+    Y lóðrétt: top, middle, bottom  */
 
 body {
 	font:italic bold 100%/120% Georgia, Times, serif;
-    /*  font-style(1) -weight(2) -size(3)-lineheight -family(4) */
+    /*  font-style, -weight, -size, -lineheight -family */
 }
 
 ```
