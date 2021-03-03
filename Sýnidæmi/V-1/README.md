@@ -10,3 +10,6 @@
 2. Í Innu, verkefni 1 er þáttökubeiði (_invitation link_), afritið beiðnina í innsláttarglugga vafra (_browser_) og ýtið síðan á _Enter_ 
 3. Eftir smá stund hefur Github miðlarinn útbúið áfangageymlsu fyrir þig
 4. [Náðu í áfangageymsluna yfir í þína tölvu](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
+5. Opnaðu Visual Studio Code, veldu **"File -> "Open folder"** og vísaðu VSC á áfangageymsluna þína
+6. Núna ertu tilbúinn að vinna í verkefni 1.
+
