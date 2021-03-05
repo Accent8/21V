@@ -48,7 +48,7 @@ Hver skipun inniheldur eigindi og gildi.
 
 Valtagið inniheldur eina eða fleiri skipanir sem eru aðgreindar með semikommum.
 
-Margar CSS skipanir eru aðgreindar með semikommum og þær eru pakkaðar saman og umvafðar með slaufusviga.
+Margar CSS skipanir eru aðgreindar með semikommum og þær eru umvafðar með slaufusviga.
 
 Dæmi:
 
