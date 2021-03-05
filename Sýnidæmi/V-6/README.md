@@ -1,13 +1,19 @@
-# Leturfræði
+# Leturstillingar í CSS
 
-### Markmið:
-Nemendur geta:
-* Unnið með mismunandi leturgerðir og náð í leturtýpur á [Google Fonts](https://fonts.google.com/). 
-* Nemendur nota leturgerð að eigin vali til að auka áhrif skilaboða ásamt viðeigandi litanotkun. 
-* Verkefni 6 er unnið hér í áfangageymslunni (_Github Classroom_) 
+```CSS
 
-Settu upp vefsíðu frá grunni eða notaðu einhverja af þeim síðum sem þú ert þegar búin/n að gera sem grunn. Á vefsíðunni eru skilaboð í fyrirsagnaletri. **Samspil leturgerðar, rýmis og lita á að gefa skilaboðunum aukið vægi.**
+body {
+    font-style: normal;      /* italic , obligue */
+    font-weight: normal;     /* bold , 100 - 900 */
+    font-size: 1em;          /* 1px , 1rem , 100% */
+    lineheight: 1.5;         /* tekur mið af einingunni sem er á font-size, staðlað 1.4 */
+    font-family: Helvetica, sans-serif; 
+    /* tekur Helvetica er það er til, annars system font (sans-serif) */ 
+}
 
-Bjargir: [Listi yfir málshætti](https://www.ms.is/okkar-mal/islenskuatak/listi-yfir-malshaetti)
+body {
+	font:italic bold 100%/120% Georgia, Times, serif;
+    /*font-style, -weight, -size/-lineheight -family */
+}
 
-#### Einkunn verður birt í Innu
+```

@@ -21,20 +21,3 @@ div {
 
 ```
 
-```CSS
-
-    background-color: #6ff;
-    background-image:url(flott-logo.svg);
-    background-repeat: no-repeat;         /*  fixed, repeat-x eða repeat-y */
-    background-position: 200px 300px; /* x,y  X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
-    background-attachment: fixed /* scroll */	
-    
-body {			
-	background: rgb(3,3,3) url(image.jpg) 0px -5px scroll no-repeat;
-                /* litur,     mynd,	staðsetning X-Y, fixed, repeat-x repeat-y */
-
-	font:italic bold 100%/120% Georgia, Times, serif;
-    /*  font-style, -weight, -size, -lineheight -family */
-}
-
-```
