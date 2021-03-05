@@ -1,8 +1,8 @@
-# Glósur
+# CSS glósur
 
 #### Gildum hlaðið á eigindi 
 
-```
+```CSS
 
 div {
 	margin: 10px 20px 30px 40px; 
@@ -20,12 +20,10 @@ div {
 }
 
 ```
-#### CSS 
 
-```
+```CSS
 
-bacground eigindi
-    background-color:#6ff;
+    background-color: #6ff;
     background-image:url(flott-logo.svg);
     background-repeat: no-repeat;         /*  fixed, repeat-x eða repeat-y */
     background-position: 200px 300px; /* x,y  X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
