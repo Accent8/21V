@@ -2,6 +2,18 @@ Dæmi um uppsetningu HTML5 vefsíðu (*án innihalds*):
 
 ```HTML
 
+<!DOCTYPE html>
+<html lang="is">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Hér kemur efni sem birtist í vafra (browser) -->
+</body>
+</html>
 
 ``` 
 
@@ -24,10 +36,5 @@ Mundu að eftirfarandi þarf ávallt að vera til staðar í HTML skjali:
 -   Þú skoðar html síðuna í vafra með því að smella á html skjalið þar
     sem þú vistaðir það.
 
-
-
-Opnaðu [Visual](http://www.sublimetext.com/3) Studio Code forritið (*eða
-einhvern annan textaritil*) Ef þú ert ekki með VSC á tölvunni þinni þá
-getur þú sótt það á: <https://code.visualstudio.com/download>
 
 
