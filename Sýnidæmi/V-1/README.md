@@ -38,8 +38,6 @@ Mundu að eftirfarandi þarf ávallt að vera til staðar í HTML skjali:
 
 # CSS stílsetning
 
-**CSS selector**
-
 ![css selector](img/selector.gif)
 
 The selector points to the HTML element you want to style.
