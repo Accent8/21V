@@ -12,7 +12,7 @@ body {
 }
 body {			
 	background: rgb(3,3,3) url(image.jpg) 0px -5px scroll no-repeat;
-                /* litur,     mynd,	staðsetning X-Y, fixed, repeat-x repeat-y */
+            /*  litur,   mynd,  staðsetning X-Y,  fixed,  repeat -x -y */
 
 }
 
