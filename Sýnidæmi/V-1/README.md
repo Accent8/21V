@@ -1,4 +1,4 @@
-# Uppsetningu HTML5 vefsíðu 
+# Uppsetning HTML5 vefsíðu 
 
 (*án innihalds*)
 
