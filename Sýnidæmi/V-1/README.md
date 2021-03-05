@@ -44,9 +44,9 @@ ________________________________________________________
 
 Valtag (_selector_) bendir á HTML þáttinn (_element_) sem þú vilt stíla.
 
-Valtagið inniheldur eina eða fleiri skipanir sem eru aðgreindar með semikommum.
-
 Hver skipun inniheldur eigindi og gildi.
+
+Valtagið inniheldur eina eða fleiri skipanir sem eru aðgreindar með semikommum.
 
 Margar CSS skipanir eru aðgreindar með semikommum og þær eru pakkaðar saman og umvafðar með slaufusviga.
 
