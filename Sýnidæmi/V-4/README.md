@@ -1,4 +1,11 @@
-# CSS glósur
+# Display: grid;
+
+* https://github.com/vefgrunnur/cssgrid
+* [Learn CSS Grid 👍](https://scrimba.com/g/gR8PTE)
+* [w3schools CSS Grid](https://www.w3schools.com/css/css_grid.asp)
+* [Grid by example](https://gridbyexample.com/)
+
+## CSS glósur
 
 #### Gildum hlaðið á eigindi 
 
