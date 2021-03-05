@@ -36,17 +36,31 @@ Mundu að eftirfarandi þarf ávallt að vera til staðar í HTML skjali:
 -   Þú skoðar html síðuna í vafra með því að smella á html skjalið þar
     sem þú vistaðir það.
 
+________________________________________________________
+
 # CSS stílsetning
 
 ![css selector](img/selector.gif)
 
-The selector points to the HTML element you want to style.
+Valtag (_selector_) bendir á HTML þáttinn (_element_) sem þú vilt stíla.
 
-The declaration block contains one or more declarations separated by semicolons.
+Valtagið inniheldur eina eða fleiri skipanir sem eru aðgreindar með semikommum.
 
-Each declaration includes a CSS property name and a value, separated by a colon.
+Hver skipun inniheldur eigindi og gildi.
 
-Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces.
+Margar CSS skipanir eru aðgreindar með semikommum og þær eru pakkaðar saman og umvafðar með slaufusviga.
+
+Dæmi:
+
+```CSS
+
+.header h1 {
+    color: #fff;
+    line-height: 1.2;
+    font-weight: normal;
+}
+
+```
 
 
 
