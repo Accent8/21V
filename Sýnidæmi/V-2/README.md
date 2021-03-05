@@ -37,3 +37,16 @@ Examples of inline elements:
 display: none; is commonly used with JavaScript to hide and show elements without deleting and recreating them. Take a look at our last example on this page if you want to know how this can be achieved.
 
 The &lt;script> element uses display: none; as default. 
+
+## The float Property
+
+The float property is used for positioning and formatting content e.g. let an image float left to the text in a container.
+
+The float property can have one of the following values:
+
+- left - The element floats to the left of its container
+- right - The element floats to the right of its container
+- none - The element does not float (will be displayed just where it occurs in the text). This is default
+- inherit - The element inherits the float value of its parent
+
+In its simplest use, the float property can be used to wrap text around images.
