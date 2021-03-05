@@ -7,6 +7,7 @@ body {
     background-image:url(flott-logo.svg);
     background-repeat: no-repeat;     /* repeat-x eða repeat-y */
     background-position: 200px 300px; /* föst staðsetning frá vinstra horni efst */
+    background-position: center middle;
     /* X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
     background-attachment: fixed; /* scroll */	
 }
