@@ -31,7 +31,7 @@ div {
     
 body {			
 	background: rgb(3,3,3) url(image.jpg) 0px -5px scroll no-repeat;
-                /* litur,     mynd,	staðsetning X-Y,    fixed, repeat x y */
+                /* litur,     mynd,	staðsetning X-Y, fixed, repeat-x repeat-y */
 
 	font:italic bold 100%/120% Georgia, Times, serif;
     /*  font-style, -weight, -size, -lineheight -family */
