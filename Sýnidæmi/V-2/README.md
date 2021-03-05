@@ -1,5 +1,7 @@
 # Box Model
 
+![Boxmodel](img/box-model.png)
+
 Explanation of the different parts:
 
 - Content - The content of the box, where text and images appear
