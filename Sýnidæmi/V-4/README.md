@@ -1,9 +1,6 @@
-# Display: grid;
+# Grid
 
-* https://github.com/vefgrunnur/cssgrid
-* [Learn CSS Grid 👍](https://scrimba.com/g/gR8PTE)
-* [w3schools CSS Grid](https://www.w3schools.com/css/css_grid.asp)
-* [Grid by example](https://gridbyexample.com/)
+Grid skipulag með _grid-area_
 
 ```HTML
 
