@@ -5,9 +5,10 @@
 body {
     background-color: #6ff;
     background-image:url(flott-logo.svg);
-    background-repeat: no-repeat;         /*  fixed, repeat-x eða repeat-y */
-    background-position: 200px 300px; /* x,y  X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
-    background-attachment: fixed /* scroll */	
+    background-repeat: no-repeat;     /* repeat-x eða repeat-y */
+    background-position: 200px 300px; /* föst staðsetning frá vinstra horni efst */
+    /* X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
+    background-attachment: fixed; /* scroll */	
 }
 body {			
 	background: rgb(3,3,3) url(image.jpg) 0px -5px scroll no-repeat;
