@@ -1,3 +1,14 @@
+# Box Model
+
+Explanation of the different parts:
+
+- Content - The content of the box, where text and images appear
+- Padding - Clears an area around the content. The padding is transparent
+- Border - A border that goes around the padding and content
+- Margin - Clears an area outside the border. The margin is transparent
+
+The box model allows us to add a border around elements, and to define space between elements. 
+
 # Display
 
 ## Block-level Elements
@@ -38,7 +49,7 @@ display: none; is commonly used with JavaScript to hide and show elements withou
 
 The &lt;script> element uses display: none; as default. 
 
-## The float Property
+# The float Property
 
 The float property is used for positioning and formatting content e.g. let an image float left to the text in a container.
 
@@ -50,3 +61,7 @@ The float property can have one of the following values:
 - inherit - The element inherits the float value of its parent
 
 In its simplest use, the float property can be used to wrap text around images.
+
+# Flexbox
+
+[W3Schools Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
