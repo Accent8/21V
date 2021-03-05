@@ -23,9 +23,7 @@ Mundu að eftirfarandi þarf ávallt að vera til staðar í HTML skjali:
     á að nota, þetta er HTML 5 skilgreining.
 
 -   **\<html skipunum\>** á alltaf að loka með **\</\...\>** og enda
-    skjalið **\</body\>\</html\>\
-    **undantekningar eru nokkrar t.a.m. **\<meta\>\<img\>\<br\>\<hr\>
-    \<input\>**
+    skjalið **\</body\>\</html\>** undantekningar eru nokkrar t.a.m. **\<meta\>, \<img\>,\<br\>, \<hr\> og \<input\>**
 
 -   Vistið skjalið með endingunni **.html** til að hægt sé að opna það í
     vafra (browser).
