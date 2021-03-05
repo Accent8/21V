@@ -1,17 +1,9 @@
 Dæmi um uppsetningu HTML5 vefsíðu (*án innihalds*):
 
-> \<!DOCTYPE HTML\>\
-> \<html\>\
-> \<head\>\
-> \<title\> Titill í vafra\</title\>\
-> \<meta charset="utf-8\"\> \<!- - stafasett „*universal type format 8
-> bit*" - -\>\
-> \</head\>\
-> **\<body\>\
-> \<h1\>** Efni vefsíðunnar sem birtist í vafra *(browser)* **\</h1\>**
->
-> **\</body\>**\
-> \</html\>
+```HTML
+
+
+``` 
 
 Mundu að eftirfarandi þarf ávallt að vera til staðar í HTML skjali:
 
