@@ -19,7 +19,8 @@ Passaðu upp á að haka við „include README.md“
 3.	Í geymslunni ferðu í **stillingar (settings)** og velur **„Github pages – master“**
 Github býr til tengingu á milli geymslunnar og vefsvæðis á github.io 
 Til að byrja með er README.md forsíða vefsins
-4.	Nú getur þú skilað verkefni 7 á eigin vefsíðu. 
+4.	Nú getur þú skilað verkefni 7 á eigin vefsíðu.
+5.  Það á að skila öllum vinnugögnum í áfangageymmsluna. 
 
 
 
