@@ -4,7 +4,7 @@
 
 ```HTML
 
-<!DOCTYPE html><!--Yfirlýsing, hér er 5.útgáfa HTML. Ef yfilýsingin er ekki tekin fram notar vafrinn 4. útgáfuna>
+<!DOCTYPE html><!--Yfirlýsing, hér er 5.útgáfa HTML. Ef yfilýsingin er ekki tekin fram notar vafrinn 4. útgáfuna -->
 <html lang="is">
 <head>
     <meta charset="UTF-8">
