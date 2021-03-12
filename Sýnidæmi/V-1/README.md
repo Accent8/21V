@@ -98,6 +98,8 @@ Dæmi:
     }
 ```
 
+[Sjá nánar á w3schools](https://www.w3schools.com/css/css_pseudo_classes.asp)
+
 #### Gildum hlaðið á eigindi 
 
 ```CSS
