@@ -62,6 +62,14 @@ Dæmi:
 
 ```
 
+#### Stílsíða tengd við HTML vefsíðu
+
+```HTML
+    <!--link er í head taginu -->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+```
+
 #### Gildum hlaðið á eigindi 
 
 ```CSS
