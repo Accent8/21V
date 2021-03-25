@@ -2,14 +2,6 @@
   box-sizing: border-box; 
 }
 
-/* ====== GRID Area ====== */
-/* Hér kemur þinn kóði */
-
-/* ====== GRID Template Areas ===== */
-/* Hér kemur þinn kóði */
-
-/* ====== Base CSS ====== */
-
 body {
 line-height: 1.5em;
 }
@@ -22,21 +14,21 @@ background: tomato;
 .footer {
 background: lightgreen; 
 }
-.midja {
+.art1 {
 background: skyblue; 
 }
-.vinstri {
+.as1 {
 background: gold; 
 }
-.haegri {
+.as2 {
 background: pink; 
 }
 
 .header,
 .footer,
-.midja,
-.vinstri, 
-.haegri {
+.art1,
+.as1, 
+.as2 {
 padding: 1em; 
 }
 
@@ -45,14 +37,14 @@ color: #fff;
 line-height: 1.2;
 font-weight: normal;
 }
-.midja h2 {
+.art1 h2 {
 margin: .7em 0 .8em 0;
 }
-.midja h4 {
+.art1 h4 {
 text-align: justify;
 margin: .4em 0;
 }
-.midja p {
+.art1 p {
 text-align: justify;
 }
 
