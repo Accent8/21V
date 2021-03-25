@@ -2,7 +2,7 @@
 
 Markmið: Nemendur öðlast skilning á hönnun vefsíðna fyrir mismunandi skjástærðir, ss farsíma, spjaldtölvur, fartölvur og borðtölvur.
   
-* [Verkefnalýsing](Verkefni-4.pdf)
+* [Verkefnalýsing](Verkefni_4.pdf)
 * [Fylgigögn](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-4)
 
 
