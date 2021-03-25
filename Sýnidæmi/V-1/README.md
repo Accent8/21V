@@ -1,10 +1,10 @@
-# Uppsetning HTML5 vefsíðu 
+# Uppsetning HTML vefsíðu 
 
 (*án innihalds*)
 
 ```HTML
 
-<!DOCTYPE html>
+<!DOCTYPE html><!-- Nýasta útgáfa HTML. Ef yfilýsingin er ekki tekin fram notar vafrinn 4. útgáfuna -->
 <html lang="is">
 <head>
     <meta charset="UTF-8">
@@ -61,6 +61,44 @@ Dæmi:
 }
 
 ```
+
+#### Stílsíða tengd við HTML vefsíðu
+
+```HTML
+    <!--link er í head taginu -->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+```
+#### Vefsíður tengdar saman \<a\> 
+
+```HTML
+    <a href="sida2.html" title="Síða 2">Síða 2</a>
+```
+#### Anchor Pseudo-classes \<a\>
+
+```CSS
+    /* unvisited link */
+    a:link {
+        color: #FF0000;
+    }
+
+    /* visited link */
+    a:visited {
+        color: #00FF00;
+    }
+
+    /* mouse over link */
+    a:hover {
+        color: #FF00FF;
+    }
+
+    /* selected link */
+    a:active {
+        color: #0000FF;
+    }
+```
+
+[Sjá nánar á w3schools](https://www.w3schools.com/css/css_pseudo_classes.asp)
 
 #### Gildum hlaðið á eigindi 
 

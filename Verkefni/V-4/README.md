@@ -1,5 +1,8 @@
 # Sveigjanleg hönnun
+
+Markmið: Nemendur öðlast skilning á hönnun vefsíðna fyrir mismunandi skjástærðir, ss farsíma, spjaldtölvur, fartölvur og borðtölvur.
   
-* [Fylgigögn](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-4), index.html og myndir.html 
+* [Verkefnalýsing](Verkefni-4.pdf)
+* [Fylgigögn](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-4)
 
 
