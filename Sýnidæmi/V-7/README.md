@@ -2,7 +2,7 @@
 
 Stafræn mynd er framsetning myndar í tvíundakerfi og getur verið annaðhvort vigur- (_vector_) eða rastamynd (_bitmap). Yfirleitt á heitið „stafræn mynd“ við rastamynd. Stafrænar ljósmyndavélar og skannar geta búið til rastamyndir. Til að búa til einfalda vigurmynd getum við kóðað hana en oftast notum við hönnunarforrit til að teikna myndina. 
 
-#### Þrenns konar gerðir myndaskjala er hægt að setja í vefsíður.
+#### Þrenns konar gerðir rastamynda er hægt að setja í vefsíður.
 
 * .jpg – _Joint Photographic Experts Group_. JPEG þjöppun hentar vel fyrir ljósmyndir. JPEG er “_lossy_” þjöppunartækni þar sem m.a. upplýsingar sem mannsaugað greinir ekki eru þjappaðar. .jpg format hentar best fyrir ljósmyndir og flóknari grafík. Eftir því sem myndin er þjöppuð meira því óskýrari verður hún. Hönnuðurinn þarf því að velja á milli gæða myndarinnar og stærðar hennar.
 * .png – _Portable Network Graphics_. .png myndir eru svipaðar .gif myndum en bjóða uppá meiri myndgæði. Þjöppun án taps í 24 bita RGB lit. .png getur þjappað 5-25% og hefur möguleika á gagnsæjum bakgrunni.
@@ -30,10 +30,9 @@ Stafræn mynd er framsetning myndar í tvíundakerfi og getur verið annaðhvort
 
 Pdf skjal er form á skjali, sem er hannað til að standa fyrir önnur skjöl óháð öllum þeim tölvubúnaði sem notaður var til að búa til skjalið. Þegar pdf skjal er opnað, lítur það eins út hvar sem þú opnar það. Ólík stýrikerfi eða skjáupplausn skipta ekki máli. Þessi skjöl geta verið ein blaðsíða, eða þúsundir blaðsíðna, einföld, eða mjög flókin. Pdf skjal getur innihaldið hvaða samsetningu af texta, grafík og myndum sem er. 
 
-#### Línuteikningar, Vektor myndir .svg
+#### Vigurteikningar, Vektor myndir .svg
 
-Teikningar og firmamerki eru unnin í vektorteikniforitum eins og _Adobe Illustrator, InkScape og Corel Draw_. Til að birta vektor mynd í vafra þarf hún að vera vistuð sem .SVG mynd (_Scalable Vector Graphic_). 
-
-#### myndir  í _images_ möppunni eru dæmi til að æfa sig á.
+* Til að birta vektor mynd í vafra þarf hún að vera vistuð sem .SVG mynd (_Scalable Vector Graphic_). 
+* Teikningar og firmamerki eru unnin í vektorteikniforitum eins og _Adobe Illustrator, InkScape og Corel Draw_. 
 
 Athugið að þetta **er ekki** tæmandi listi yfir myndgerðir sem hægt er að vinna með og yfirfæra í myndvinnsluforritum.
