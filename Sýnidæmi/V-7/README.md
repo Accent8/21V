@@ -24,11 +24,11 @@ Stafræn mynd er framsetning myndar í tvíundakerfi og getur verið annaðhvort
 
 #### PaintNet (Windows PC) 
 
-#### Photopea (Vafraforrit - App)
+#### [Photopea](https://www.photopea.com/) (Vafraforrit - App)
 
 #### Portable Document File .pdf
 
-Pdf skjal er form á skjali, sem er hannað til að standa fyrir önnur skjöl óháð öllum þeim tölvubúnaði sem notaður var til að búa til skjalið. Þegar pdf skjal er opnað, lítur það eins út hvar sem þú opnar það. Ólík stýrikerfi eða skjáupplausn skipta ekki máli. Þessi skjöl geta verið ein blaðsíða, eða þúsundir blaðsíðna, einföld, eða mjög flókin. Pdf skjal getur innihaldið hvaða samsetningu af texta, grafík og myndum sem er. 
+Pdf skjal er form á skjali, sem er hannað til að standa fyrir önnur skjöl óháð öllum þeim tölvubúnaði sem notaður var til að búa til skjalið. Þegar pdf skjal er opnað, lítur það eins út hvar sem þú opnar það. Ólík stýrikerfi eða skjáupplausn skipta ekki máli. Þessi skjöl geta verið ein blaðsíða, eða þúsundir blaðsíðna, einföld, eða mjög flókin. Pdf skjal getur innihaldið hvaða samsetningu sem er af texta, grafík og myndum. 
 
 #### Vigurteikningar, Vektor myndir .svg
 
