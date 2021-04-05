@@ -12,7 +12,7 @@ Stafræn mynd er framsetning myndar í tvíundakerfi og getur verið annaðhvort
 
 #### _Adobe Photoshop_
 
-* .psd – skjal er eingöngu notað í Photoshop forritinu. Með þvíað vista myndir sem .psd er hægt að halda áfram að vinna með myndina í fullum litgæðum. 
+* .psd – skjal er eingöngu notað í Photoshop forritinu. Með því að vista myndir sem .psd er hægt að halda áfram að vinna með myndina í fullum litgæðum. 
 * .eps – _Encapsulated PostScript_ og .tiff _Tagged Image File Format_ eru bæði hægt að opna í Photoshop, vinna með og uppfæra fyrir vefinn sem .jpg mynd eða .png mynd.
 * .pdf – Portable document format, það er hægt að opna .pdf skjal í Photoshop og vista aftur sem .pdf skjal. 
 
