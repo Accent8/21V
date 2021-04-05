@@ -1,6 +1,6 @@
 # Myndvinnsla
 
-myndir eru byggðar upp sem bitmap pixel myndir.
+Stafræn mynd er framsetning myndar í tvíundakerfi og getur verið annaðhvort vigur- (_vector_) eða rastamynd (_bitmap). Yfirleitt á heitið „stafræn mynd“ við rastamynd. Stafrænar ljósmyndavélar og skannar geta búið til rastamyndir. Til að búa til einfalda vigurmynd getum við kóðað hana en oftast notum við hönnunarforrit til að teikna myndina. 
 
 #### Þrenns konar gerðir myndaskjala er hægt að setja í vefsíður.
 
