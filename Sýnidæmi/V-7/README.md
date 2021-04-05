@@ -10,16 +10,19 @@
 
 * .psd – skjal er eingöngu notað í Photoshop forritinu. Með þvíað vista myndir sem .psd er hægt að halda áfram að vinna með myndina í fullum litgæðum. Photoshop myndir eru byggðar upp sem bitmap pixel myndir. 
 * .pdf – Portable document format, það er hægt að opna .pdf skjal í Photoshop og vista aftur sem .pdf skjal. Pdf skjal er form á skjali, sem er hannað til að standa fyrir önnur skjöl óháð öllum þeim tölvubúnaði sem notaður var til að búa til skjalið. Þegar pdf skjal er opnað, lítur það eins út hvar sem þú opnar það. Ólík stýrikerfi eða skjáupplausn skipta ekki máli. Þessi skjöl geta verið ein blaðsíða, eða þúsundir blaðsíðna, einföld, eða mjög flókin. Pdf skjal getur innihaldið hvaða samsetningu af texta, grafík og myndum sem er. 
-* .eps – Encapsulated PostScript og .tiff Tagged Image File Format eru bæði hægt að opna í Photoshop, vinna með og uppfæra fyrir vefinn sem .jpg myndir.
+* .eps – _Encapsulated PostScript_ og .tiff _Tagged Image File Format_ eru bæði hægt að opna í Photoshop, vinna með og uppfæra fyrir vefinn sem .jpg myndir.
 * Það er hægt að búa til litlar Gif hreyfimyndir í Adobe Photoshop
 
+#### Algengar myndgerðir sem hægt er að uppfæra fyrir vef í _Gimp_
 
+.XCF myndaskrár eru búnar til GIMP myndvinnsluforritinu. [Það er hægt að opna .psd mynd í Gimp](https://www.howtogeek.com/362162/how-to-open-or-convert-a-photoshop-file-if-you-dont-have-photoshop/) 
+Eftirtalin forrit geta unnið með .XCF myndir: IrfanView, XnView, Inkscape, Paint.NET, CinePaint, digiKam, Krita og Seashore. .XCF myndir er hægt að vinna með og uppfæra fyrir vefinn sem .jpg mynd eða .png mynd. 
 
 #### Línuteikningar, Vektor myndir
 
 Teikningar og firmamerki eru unnin í vektorteikniforitum eins og _Adobe Illustrator, InkScape og Corel Draw_.
 
-* .ai,  – er vinnuskjal vektorforritsins Adobe Illustrator. það er hægt að opna þær í Photoshop og vista sem bitmap myndir.
+* .ai,  – er vinnuskjal vektorforritsins Adobe Illustrator. Það er hægt að opna þær í Photoshop og vista sem bitmap myndir.
 * .
 
 #### myndir  í _images_ möppunni eru dæmi til að æfa sig á.
